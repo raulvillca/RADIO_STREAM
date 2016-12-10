@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url_fake_server">http://www.json-generator.com</string>
+    <string name="url_server_music">http://198.105.216.204:8022</string>
+    <string name="url_irc">http://mcanimeradio.com/chat/lightirc/</string>
+
+    <string name="url_schedule">http://www.mcanimeradio.com/horarios/</string>
+    <string name="url_djs">http://www.mcanimeradio.com/music/index.php/2013-05-26-17-11-21/djs</string>
+    <string name="dj_asuma">http://www.mcanimeradio.com/music/index.php/dj-asuna</string>
+    <string name="dj_bot">http://www.mcanimeradio.com/music/index.php/dj-bot</string>
+    <string name="dj_fullmetal">http://www.mcanimeradio.com/music/index.php/dj-fullmetal</string>
+    <string name="dj_negima_sekai">http://www.mcanimeradio.com/music/index.php/dj-negima-sekai</string>
+    <string name="dj_sniper">http://www.mcanimeradio.com/music/index.php/dj-sniper</string>
+    <string name="dj_trainheart">http://www.mcanimeradio.com/music/index.php/dj-trainheart</string>
+    <string name="dj_zero">http://www.mcanimeradio.com/music/index.php/dj-zero</string>
+    <string name="dj_zeta">http://www.mcanimeradio.com/music/index.php/dj-zeta</string>
+    <string name="horarios">https://scontent-atl.xx.fbcdn.net/hphotos-xpa1/t31.0-8/10857360_10152745197842078_1765979280462062743_o.jpg</string>
+</resources>

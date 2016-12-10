@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MCRadio</string>
+    <string name="home">Inicio</string>
+    <string name="djs">DJs</string>
+    <string name="schedule">Horarios</string>
+    <string name="item_schedule">Horario</string>
+    <string name="item_locution">Locutor</string>
+
+    <string name="array_list">lista</string>
+    <string name="message_irc">Entrando al Chat IRC</string>
+    <string name="message_mcradio">Estas escuchando MC Radio</string>
+</resources>

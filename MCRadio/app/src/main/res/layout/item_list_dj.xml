@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_margin="@dimen/padding_view"
+        android:id="@+id/id_item_list_image"
+        android:layout_width="@dimen/dim_image"
+        android:layout_height="@dimen/dim_image"
+        android:src="@mipmap/src_view"
+        app:civ_border_width="2dp"/>
+    <LinearLayout
+        android:layout_gravity="center_vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/style_text"
+            android:id="@+id/id_item_list_broadcaster"
+            android:text="Locutor"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/id_item_list_schedule"
+            android:text="Horario"/>
+    </LinearLayout>
+</LinearLayout>

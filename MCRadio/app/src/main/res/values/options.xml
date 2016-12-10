@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="navigation_opc" >
+        <item>Eventos</item>
+        <item>Light IRC</item>
+        <item>Mibbit</item>
+        <item>Reproducir Radio</item>
+        <item>Favoritos</item>
+    </string-array>
+</resources>

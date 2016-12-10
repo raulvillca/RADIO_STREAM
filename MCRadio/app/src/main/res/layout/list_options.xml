@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ListView android:layout_width="240dp"
+    android:layout_height="match_parent"
+    android:id="@+id/id_listdrawer"
+    android:entries="@array/navigation_opc"
+    android:background="@color/colorWhite"
+    android:layout_gravity="start"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
+
